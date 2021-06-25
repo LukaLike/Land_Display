@@ -1,0 +1,9 @@
+<!--
+  ~ Created by Lukas (LukaLike) on Fri, Jun 25, '21.
+  ~ Copyright (c) 2021. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">Land Display</string>
+    <string name="open_google_maps">OPEN GOOGLE MAPS</string>
+</resources>
